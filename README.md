@@ -50,9 +50,10 @@ The project has been deployed on Firebase. https://netflix-clone-12422.web.app/ 
 ## Screenshots
 
 ### Home Page
-<!-- <img src="https://github.com/Sshashank18//blob/master/Screenshots/Login.png"
-     style="float: left; margin-right: 10px;"/> -->
+<img src="https://github.com/Sshashank18/NetflixClone/blob/main/Screenshots/Screenshot%20(22).png"
+     style="float: left; margin-right: 10px;"/>
 
 ### Trailer Working
-
+<img src="https://github.com/Sshashank18/NetflixClone/blob/main/Screenshots/Screenshot%20(23).png"
+     style="float: left; margin-right: 10px;"/>
 
